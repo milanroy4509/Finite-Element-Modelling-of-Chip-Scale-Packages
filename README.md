@@ -18,3 +18,11 @@ packages (CSPs) with and without internal voids.
 - ANSYS
 - Finite Element Analysis
 - Thermo-mechanical modelling
+  
+## Ansys Thermal Analysis Models
+
+### CSP with voids
+![with voids]()
+
+### CSP without voids
+![without voids]()
