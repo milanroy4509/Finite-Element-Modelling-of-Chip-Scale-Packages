@@ -1,7 +1,7 @@
 # Finite Element Modelling of Chip Scale Packages
 
 ## Project Overview
-Final-year thesis investigating the thermo-mechanical reliability of chip scale
+Final-year project investigating the thermo-mechanical reliability of chip scale
 packages (CSPs) with and without internal voids.
 
 ## Analysis Performed
@@ -12,7 +12,7 @@ packages (CSPs) with and without internal voids.
 ## Key Findings
 - Internal voids significantly influence stress distribution
 - Thermo-mechanical loading increases reliability concerns in voided CSPs
-- Numerical results aligned with theoretical expectations
+- Numerical results from thermal analysis aligned with theoretical expectations
 
 ## Tools Used
 - ANSYS
