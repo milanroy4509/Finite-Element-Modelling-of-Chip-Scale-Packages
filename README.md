@@ -22,7 +22,7 @@ packages (CSPs) with and without internal voids.
 ## Ansys Thermal Analysis Models
 
 ### CSP with voids
-![with voids]()
+![with voids](https://github.com/milanroy4509/Finite-Element-Modelling-of-Chip-Scale-Packages/blob/c94105f6178d375b8eb954fb24c9a507f7be345d/images/CSPs%20with%20voids.png)
 
 ### CSP without voids
 ![without voids]()
